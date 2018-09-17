@@ -1,0 +1,19 @@
+{
+  "name": "jay_pro",
+  "version": "1.0.0",
+  "description": "",
+  "main":"server.js",
+  "homepage": "/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.4",
+    "angular-route": "^1.6.4",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.15"
+  }
+}
